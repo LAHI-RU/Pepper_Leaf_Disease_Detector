@@ -1,5 +1,36 @@
-# Object file
-*.o
+```gitignore
+# Ignore Python Cache
+__pycache__/
+*.pyc
+*.pyo
 
-# Ada Library Information
-*.ali
+# Ignore dataset
+dataset/
+*.jpg
+*.png
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore Jupyter Notebooks Checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore Streamlit cache
+.streamlit/
+
+# Ignore dataset folder
+dataset/
+*.jpg
+*.png
+*.csv
+
+# Ignore trained models
+models/
+*.h5
+*.pkl
+*.pt
