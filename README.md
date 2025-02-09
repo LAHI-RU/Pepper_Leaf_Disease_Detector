@@ -12,7 +12,7 @@ A deep learning-based system for detecting diseases in pepper leaves using image
 ## 📥 Dataset & Model Download
 The dataset and trained model are too large to be stored in this repository.
 
-🔹 **Dataset:** [Download from Google Drive](YOUR_DATASET_LINK)  
+🔹 **Dataset:** [Download from Google Kaggle](https://www.kaggle.com/datasets/udi17live/black-pepper-leaf-blight-and-yellow-mottle-virus/data)  
 🔹 **Pre-trained Model:** [Download from Google Drive](YOUR_MODEL_LINK)  
 
 Once downloaded, place them in the respective folders:
