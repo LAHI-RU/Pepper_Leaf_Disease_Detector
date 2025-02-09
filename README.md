@@ -69,8 +69,8 @@ This project is open-source under the **MIT License**.
 ---
 
 ## 🌐 Links
-- 🔗 **GitHub Repository:** [Your Repository Link](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME)
-- 🎯 **Web App (if deployed):** [Live Demo](YOUR_DEPLOYMENT_LINK)
+- 🔗 **GitHub Repository:** [Your Repository Link](https://github.com/LAHI-RU/Pepper_Leaf_Disease_Detector)
+- 🎯 **Web App (if deployed):** [Not Yet](YOUR_DEPLOYMENT_LINK)
 
 ---
 
